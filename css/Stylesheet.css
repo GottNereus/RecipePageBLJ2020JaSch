@@ -1,0 +1,34 @@
+.navbar{
+background-size: 100%;
+    background-image: url("/img/Woodone.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Kings', cursive;
+    border-bottom: black solid 5px;
+}
+#title{
+font-size: 150px;
+color: black;
+}
+#picture1{
+
+
+   background-image: url("/img/tanne1.jpg");
+   border-bottom: black solid 5px;
+}
+#Pictureone{
+width:750px;
+    margin-left: 145%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+/* div{
+border: red solid 1px;
+} */
+.footer_background{
+    background-size: 100%;
+    background-image: 
+    linear-gradient(to right, rgba(100,100,100,0.5), rgba(100,100,100,0.5)),
+    url("/img/orange.jpg");
+    
+}
